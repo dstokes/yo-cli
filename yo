@@ -1,2 +1,2 @@
 #! /bin/bash
-echo yo
+/bin/echo yo | /usr/bin/wall
